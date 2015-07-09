@@ -82,6 +82,8 @@ int main(void)
 	if (getchar() == 0x20) {
 		
 	}
+	
+	
 	printf("侯名的测试项目: 1. RTC 2. SDIO 3. BEEP\r\n");
 	
 	RTC_Init(); 		// RTC 初始化配置
